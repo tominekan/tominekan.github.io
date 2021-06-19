@@ -1,0 +1,13 @@
+---
+---
+
+$sidebar-bg-color: #9A109A;
+$link-color: #9A109A;
+
+@import "hydeout";
+
+/*Import and use the inter font-face for the main title font*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+a {
+    font-family: "Inter", sans-serif;
+}
