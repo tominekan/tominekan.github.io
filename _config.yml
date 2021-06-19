@@ -29,7 +29,6 @@ github_username:  tominekan
 paginate: 5
 
 # Build settings
-theme: jekyll-theme-hydeout
 remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
