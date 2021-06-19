@@ -8,7 +8,7 @@ This is my first blog post. Since it is my first, it will contain `Hello world` 
 ```py
 print("Hello world")
 ```
-This is the basic hello world, and anyone who thinks otherwise thought wrong. Defining `main` functions and adding `if __name__ == "main"` is not necessary and was never necessary. Python was my first language and through it I learned a lot of development concepts, it was also the language where I learned how frustrating the programming is. Python overall is a great lanuguage, the syntax is good, the standard library is amazing, and there are so many areas that one can get into with python. However, with the exception of machine learning, python always felt like it was the second best tool for the job. It was good, it could work, but it wasn't specialized (now I realize that as a scripting language, that was the intention, but it has arguably evolved to be far more than a scripting language). But with speed improvements and type compilation
+This is the basic hello world, and anyone who thinks otherwise thought wrong. Defining `main` functions and adding `if __name__ == "main"` is not necessary and was never necessary. Python was my first language and through it I learned a lot of development concepts, it was also the language where I learned how frustrating the programming is. Python overall is a great lanuguage, the syntax is good, the standard library is amazing, and there are so many areas that one can get into with python. However, with the exception of machine learning, python always felt like it was the second best tool for the job. It was good, it could work, but it wasn't specialized (now I realize that as a scripting language, that was the intention, but it has arguably evolved to be far more than a scripting language). But with future speed improvements and the gradual introduction of the type system, it's features could be stabilizing into less of a scripting language.
 
 **JavaScript**
 ```js
@@ -23,7 +23,7 @@ int main() {
     std::cout << "Hello world\n";
 }
 ```
-If JavaScript was a jump, then C++ was like falling off a The Grand Canyon. The syntax was deceptively simple, increasing in difficulty till the complexity became far more than I could handle. The syntax became weird and unintuitive, the concepts became extremely hard to understand. So yeah, that was my time with C++ (hint: it was not a good one). The problem with C++ is that in my opinion, it tries to maintain compatibility with C, which really limits it to how much it can change. Now, sometime in the future, I will probably regret saying this because I need some C++ features in an embedded systems project, but for now, I stand by my words.  As a little side note, adding `return 0;` is a best practice, but not necessary.
+If JavaScript was a jump, then C++ was like falling off The Grand Canyon. The syntax was deceptively simple, increasing in difficulty till the complexity became far more than I could handle. The syntax became weird and unintuitive, the concepts became extremely hard to understand. So yeah, that was my time with C++ (hint: it was not a good one). The problem with C++ is that in my opinion, it tries to maintain compatibility with C, which really limits it to how much it can change. Now, sometime in the future, I will probably regret saying this because I need some C++ features in an embedded systems project, but for now, I stand by my words.  As a little side note, adding `return 0;` is a best practice, but not necessary.
 
 **Rust**
 ```rust
