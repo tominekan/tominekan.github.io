@@ -33,6 +33,7 @@ remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-admin
 
 google_analytics_4: G-J0BWVKG1HY 
 # Exclude from processing.
