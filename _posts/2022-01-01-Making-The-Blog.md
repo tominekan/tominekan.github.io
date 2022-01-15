@@ -5,7 +5,7 @@ title: Making this Blog
 
 This blog was the culmination of my pure efforts to avoid doing any sort of hard work. I first created this blog in 2021 (Middle-ish?) but it soon fell victim to my lack of willpower. This year it will not be ignored (hopefully?). Anyway, let's get to the technical details of making this website.
 
-**I didnt make it all by myself.**
+**I didn't make it all by myself.**
 
 Being honest, I completely forgot about my abandoned blog until today (yes, January 1st 2022). Deep in my soul, I always knew I was never going to build a blog by myself. There is just too much that could go wrong, and it really doesn't seem worth the effort to debug. The first idea was to use something like Blogger or Wordpress because they both were simple and required less mental oomph than other solutions
 

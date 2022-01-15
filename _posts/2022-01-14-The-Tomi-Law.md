@@ -3,8 +3,6 @@ layout: post
 title: The Tomi Law
 ---
 
-**The Tomi Law**
-
 It's fun to name a law after yourself, especially because it encapsulates a simple concept.
 
 **_No system that exists is impenetrable._**
