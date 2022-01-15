@@ -1,7 +1,7 @@
-```yaml
+---
 layout: post
 title: The Tomi Law
-```
+---
 
 **The Tomi Law**
 
